@@ -1,0 +1,33 @@
+<html>
+<head>
+    <title>Reciclaje</title>
+    <link rel="stylesheet" href="./assets/bootstrap.css">
+    <script src="./assets/bootstrap.bundle.js"></script>
+    <div class="text-center">
+    <h1>Reciclaje</h1>
+</div>
+</head>
+<body>
+    <p><h3>El reciclaje es un proceso cuyo objetivo es convertir residuos en nuevos productos o en materia prima para su posterior utilizacion. Previene el desuso de materiales potencialmente utiles, se reduce el consumo de nueva materia prima y el uso de energia.</h3></p>
+    <div class="text-center">
+    <img src="./pagina/img.jpg" width="500" height="500"> 
+    </div>   
+    <p><h3>El proceso de reciclaje generalmente implica las siguientes etapas: </h3></p>
+    <h3><li>Recoleccion: </li></h3> <h2>Los materiales reciclabes se recogen de hogares, empresas y otros lugares mediantre programas de recoleccion de residuos o la entrega en centros de reciclaje.</h2>
+    <h3><li>Clasificacion: </li></h3> <h2>Una vez recolectados, se separan en diferentes categorias: como papel, carton, plastico, vidrio y metal.</h2>
+    <h3><li>Procesamiento: </li></h3> <h2>Los materiales reciclables se trituran, se lavan y se tratan para eliminar impuresas y preparandolos para su transformacion de nuevos productos.</h2>
+    <h3><li>Fabricacion: </li></h3> <h2>Los materiales reciclados procesados se utilizan para fabricar nuevos productos por ejemplo: el papel reciclado se puede convertir en carton, el plastico reciclado en botellas o en vasos y el vidrio reciclado en nuevos recipientes.</h2>
+    
+    <div class="text-center">
+        <img src="./pagina/po.jpg" width="500" height="500"> 
+    </div>
+
+    <div class="text-center">
+            <video width="500" height="500" muted controls>
+                <source src="Hollow Knight 2024-02-21 12-28-56.mp4" type="video/mp4">
+
+                <source src="Hollow Knight 2024-02-21 12-28-56.mp4" type="video/ogg">
+            </video>
+    </div>   
+</body>
+</html>
